@@ -87,7 +87,11 @@ shiny::runApp("app.R")
 
 ## ✍️ Autores
 
-- João Vitor Gouvea de Araujo  
+- João Vitor Gouvea de Araujo
+- Bruno Pilão
+- Carol Cruz
+- Maria da Graça Mello
+- Mateus Norcia 
 - [Adicione os demais integrantes do grupo, se houver]
 
 ---
